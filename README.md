@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hey there, I'm Raisun Lakra! 👋
 
-<!--
-**RaisunLakra/RaisunLakra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Pursuing MCA at MNNIT Allahabad, where I'm sharpening my skills in Data Structures and Algorithms 🚀
 
-Here are some ideas to get you started:
+📚 Graduated with a B.Sc. in Mathematics from St. Xavier's College, Ranchi 🎓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about coding in C, C++, and Python 🐍
+
+🧠 Currently dedicated to skill development and mastering Data Structures 🔍
+
+♟️ I'm also an avid chess player, challenging my strategic thinking on and off the board! 🏆
+
+🌐 Feel free to ask me about C, C++, Python, chess, or anything related to Data Structures! 🤓
+
+<!-- Connect with Me -->
+### Connect with Me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/raisunlakra18)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/RaisunLakra)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-green?style=flat-square&logo=leetcode)](https://leetcode.com/raisunlakra18)
+
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RaisunLakra.RaisunLakra)
+
+<!-- You can add more badges or customize this section as needed -->
