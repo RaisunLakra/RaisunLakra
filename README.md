@@ -19,6 +19,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/RaisunLakra)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-green?style=flat-square&logo=leetcode)](https://leetcode.com/raisunlakra18)
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RaisunLakra.RaisunLakra)
+<!-- ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=RaisunLakra) -->
+
 
 <!-- You can add more badges or customize this section as needed -->
