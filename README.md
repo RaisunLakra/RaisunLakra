@@ -12,6 +12,11 @@
 
 🌐 Feel free to ask me about C, C++, Python, chess, or anything related to Data Structures! 🤓
 
+### Chess Profiles:
+
+🌐 [chess.com](https://www.chess.com/member/RaisunLakra)
+📊 [lichess.org](https://lichess.org/@/Raisun)
+
 <!-- Connect with Me -->
 ### Connect with Me:
 
